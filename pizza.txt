@@ -1,0 +1,4 @@
+skladniki:
+-maka
+-woda
+-olej
